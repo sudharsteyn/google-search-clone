@@ -1,0 +1,24 @@
+.suggestion {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.suggestion-title {
+  font-family: 'Roboto';
+  color: #475569;
+  font-size: 16px;
+  margin: 12px;
+}
+
+.arrow-img {
+  height: 20px;
+  width: 20px;
+}
+
+.arrow-btn {
+  background-color: #ffffff;
+  border: none;
+  cursor: pointer;
+  outline: none;
+}
